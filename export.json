@@ -2,12 +2,11 @@
   "version": 33,
   "meta": {
     "phaseText": "2020 preseason",
-    "name": "Roster Update"
+    "name": "League 18"
   },
   "awards": [],
   "schedule": [],
   "playoffSeries": [],
-  "negotiations": [],
   "draftLotteryResults": [],
   "messages": [],
   "playerFeats": [],
@@ -23,13 +22,20 @@
           "dpidsExcluded": []
         },
         {
-          "tid": 15,
+          "tid": 0,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         }
       ]
+    }
+  ],
+  "negotiations": [
+    {
+      "pid": 492,
+      "tid": 29,
+      "resigning": false
     }
   ],
   "releasedPlayers": [
@@ -286,6 +292,19 @@
       ],
       "season": 2020,
       "eid": 14
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/18/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/18/player/165\">Dion Waiters</a> to the <a href=\"/l/18/roster/ATL/2020\">Hawks</a> for a 2023 2nd round pick (ATL) and a 2023 2nd round pick (CHA).",
+      "pids": [
+        165
+      ],
+      "tids": [
+        20,
+        0
+      ],
+      "season": 2020,
+      "eid": 15
     }
   ],
   "teams": [
@@ -5535,7 +5554,7 @@
     },
     {
       "key": "leagueName",
-      "value": "Roster Update"
+      "value": "League 18"
     },
     {
       "key": "luxuryPayroll",
@@ -7140,7 +7159,7 @@
       "dpid": 180
     },
     {
-      "tid": 0,
+      "tid": 20,
       "originalTid": 0,
       "round": 2,
       "pick": 0,
@@ -7188,7 +7207,7 @@
       "dpid": 186
     },
     {
-      "tid": 0,
+      "tid": 20,
       "originalTid": 3,
       "round": 2,
       "pick": 0,
@@ -40699,7 +40718,7 @@
       "pid": 164
     },
     {
-      "tid": 20,
+      "tid": 0,
       "name": "Dion Waiters",
       "ratings": [
         {
@@ -40936,11 +40955,56 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 0,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
         15,
-        20
+        20,
+        0
       ],
       "firstName": "Dion",
       "lastName": "Waiters",
