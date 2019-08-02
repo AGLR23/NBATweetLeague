@@ -2,7 +2,7 @@
   "version": 33,
   "meta": {
     "phaseText": "2020 preseason",
-    "name": "League 18"
+    "name": "League 20"
   },
   "awards": [],
   "schedule": [],
@@ -15,7 +15,7 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 20,
+          "tid": 13,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -83,6 +83,15 @@
         "exp": 2020
       },
       "rid": 4
+    },
+    {
+      "pid": 345,
+      "tid": 19,
+      "contract": {
+        "amount": 900,
+        "exp": 2020
+      },
+      "rid": 5
     }
   ],
   "events": [
@@ -305,6 +314,33 @@
       ],
       "season": 2020,
       "eid": 15
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/LAL/2020\">Lakers</a> traded <a href=\"/l/20/player/203\">JaVale McGee</a>, <a href=\"/l/20/player/610\">Quinn Cook</a>, and a 2020 2nd round pick (CLE) to the <a href=\"/l/20/roster/ATL/2020\">Hawks</a> for <a href=\"/l/20/player/91\">Jabari Parker</a>.",
+      "pids": [
+        203,
+        610,
+        91
+      ],
+      "tids": [
+        13,
+        0
+      ],
+      "season": 2020,
+      "eid": 16
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/NYK/2020\">Knicks</a> released <a href=\"/l/20/player/345\">Kadeem Allen</a>.",
+      "pids": [
+        345
+      ],
+      "tids": [
+        19
+      ],
+      "season": 2020,
+      "eid": 17
     }
   ],
   "teams": [
@@ -2878,8 +2914,8 @@
       "cid": 0,
       "did": 2,
       "region": "Raleigh",
-      "name": "North Carolina",
-      "abbrev": "MIA",
+      "name": "Heat",
+      "abbrev": "RH",
       "imgURL": "http://i.imgur.com/bsyplzQ.png",
       "budget": {
         "ticketPrice": {
@@ -5554,7 +5590,7 @@
     },
     {
       "key": "leagueName",
-      "value": "League 18"
+      "value": "League 20"
     },
     {
       "key": "luxuryPayroll",
@@ -5671,7 +5707,7 @@
     },
     {
       "key": "userTid",
-      "value": 20
+      "value": 19
     },
     {
       "key": "userTids",
@@ -5799,7 +5835,7 @@
       "dpid": 10
     },
     {
-      "tid": 13,
+      "tid": 0,
       "originalTid": 5,
       "round": 2,
       "pick": 0,
@@ -26132,7 +26168,7 @@
       "pid": 90
     },
     {
-      "tid": 0,
+      "tid": 13,
       "name": "Jabari Parker",
       "ratings": [
         {
@@ -26323,10 +26359,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 13,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        0
+        0,
+        13
       ],
       "firstName": "Jabari",
       "lastName": "Parker",
@@ -47915,7 +47996,7 @@
       "pid": 202
     },
     {
-      "tid": 13,
+      "tid": 0,
       "name": "JaVale McGee",
       "ratings": [
         {
@@ -48111,10 +48192,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 0,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        13
+        13,
+        0
       ],
       "firstName": "JaVale",
       "lastName": "McGee",
@@ -75636,7 +75762,7 @@
       "pid": 344
     },
     {
-      "tid": 19,
+      "tid": -1,
       "name": "Kadeem Allen",
       "ratings": [
         {
@@ -75675,7 +75801,7 @@
       "imgURL": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628443.png",
       "contract": {
         "amount": 900,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -75747,36 +75873,36 @@
         "color": "#5c3937"
       },
       "freeAgentMood": [
+        0.7921471717333634,
+        1.326291836852271,
+        0,
+        0.26693059403593933,
+        0.9547906468717785,
         0,
         0,
+        1.4056850320081848,
+        0.08217316572648548,
+        0,
+        0.44166451036642324,
         0,
         0,
+        0.488676194557353,
+        1.2011678188888841,
+        0.9156767447813969,
+        0.8294361132158743,
+        1.0454810438870736,
+        0.9089944148931235,
         0,
         0,
+        1.0852916407453388,
         0,
         0,
+        0.44497768668620774,
+        0.21869124204454682,
+        1.076253070669343,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.1025846678297373,
+        0.2910082135845984
       ],
       "gamesUntilTradable": 0,
       "hof": false,
@@ -128031,7 +128157,7 @@
       "pid": 609
     },
     {
-      "tid": 13,
+      "tid": 0,
       "name": "Quinn Cook",
       "ratings": [
         {
@@ -128224,10 +128350,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 0,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        13
+        13,
+        0
       ],
       "firstName": "Quinn",
       "lastName": "Cook",
