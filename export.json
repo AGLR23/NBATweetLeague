@@ -2,7 +2,7 @@
   "version": 33,
   "meta": {
     "phaseText": "2020 preseason",
-    "name": "League 20"
+    "name": "League 21"
   },
   "awards": [],
   "schedule": [],
@@ -15,14 +15,14 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 13,
+          "tid": 20,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         },
         {
-          "tid": 0,
+          "tid": 19,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -341,6 +341,21 @@
       ],
       "season": 2020,
       "eid": 17
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/21/player/397\">Andre Roberson</a> to the <a href=\"/l/21/roster/NYK/2020\">Knicks</a> for <a href=\"/l/21/player/147\">Frank Ntilikina</a> and <a href=\"/l/21/player/183\">Wayne Ellington</a>.",
+      "pids": [
+        397,
+        147,
+        183
+      ],
+      "tids": [
+        20,
+        19
+      ],
+      "season": 2020,
+      "eid": 18
     }
   ],
   "teams": [
@@ -5590,7 +5605,7 @@
     },
     {
       "key": "leagueName",
-      "value": "League 20"
+      "value": "League 21"
     },
     {
       "key": "luxuryPayroll",
@@ -5707,7 +5722,7 @@
     },
     {
       "key": "userTid",
-      "value": 19
+      "value": 15
     },
     {
       "key": "userTids",
@@ -37240,7 +37255,7 @@
       "pid": 146
     },
     {
-      "tid": 19,
+      "tid": 20,
       "firstName": "Frank",
       "lastName": "Ntilikina",
       "ratings": [
@@ -37432,10 +37447,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 20,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        20
       ],
       "value": 57.199999999999996,
       "valueNoPot": 50,
@@ -44470,7 +44530,7 @@
       "pid": 182
     },
     {
-      "tid": 19,
+      "tid": 20,
       "name": "Wayne Ellington",
       "ratings": [
         {
@@ -44663,10 +44723,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 20,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        19
+        19,
+        20
       ],
       "firstName": "Wayne",
       "lastName": "Ellington",
@@ -85713,7 +85818,7 @@
       "pid": 396
     },
     {
-      "tid": 20,
+      "tid": 19,
       "name": "Andre Roberson",
       "ratings": [
         {
@@ -85907,10 +86012,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        20
+        20,
+        19
       ],
       "firstName": "Andre",
       "lastName": "Roberson",
