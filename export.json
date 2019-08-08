@@ -2,29 +2,27 @@
   "version": 33,
   "meta": {
     "phaseText": "2020 regular season",
-    "name": "League 1"
+    "name": "Official league"
   },
   "awards": [],
   "playoffSeries": [],
   "negotiations": [],
+  "draftLotteryResults": [],
+  "messages": [],
+  "playerFeats": [],
   "trade": [
     {
       "rid": 0,
       "teams": [
         {
-          "tid": 1,
-          "pids": [
-            121
-          ],
+          "tid": 27,
+          "pids": [],
           "pidsExcluded": [],
-          "dpids": [
-            2,
-            88
-          ],
+          "dpids": [],
           "dpidsExcluded": []
         },
         {
-          "tid": 0,
+          "tid": 2,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -33,9 +31,6 @@
       ]
     }
   ],
-  "draftLotteryResults": [],
-  "messages": [],
-  "playerFeats": [],
   "releasedPlayers": [
     {
       "pid": 514,
@@ -108,294 +103,6 @@
         "exp": 2020
       },
       "rid": 7
-    }
-  ],
-  "events": [
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/10/roster/DET/2020\">Pistons</a> traded <a href=\"/l/10/player/214\">Andre Drummond</a>, <a href=\"/l/10/player/532\">Deividas Sirvydis</a>, and <a href=\"/l/10/player/759\">Luke Kennard</a> to the <a href=\"/l/10/roster/DEN/2020\">Nuggets</a> for <a href=\"/l/10/player/123\">Mason Plumlee</a> and <a href=\"/l/10/player/463\">Will Barton</a>.",
-      "pids": [
-        214,
-        532,
-        759,
-        123,
-        463
-      ],
-      "tids": [
-        8,
-        7
-      ],
-      "season": 2020,
-      "eid": 0
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/MIA/2020\">North Carolina</a> traded <a href=\"/l/17/player/319\">James Johnson</a> and <a href=\"/l/17/player/450\">Goran Dragic</a> to the <a href=\"/l/17/roster/OKC/2020\">Thunder</a> for <a href=\"/l/17/player/284\">Chris Paul</a> and a 2021 2nd round pick (OKC).",
-      "pids": [
-        319,
-        450,
-        284
-      ],
-      "tids": [
-        15,
-        20
-      ],
-      "season": 2020,
-      "eid": 1
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/ATL/2020\">Hawks</a> traded <a href=\"/l/17/player/619\">Cam Reddish</a> to the <a href=\"/l/17/roster/MIA/2020\">North Carolina</a> for <a href=\"/l/17/player/438\">Tyler Herro</a>.",
-      "pids": [
-        619,
-        438
-      ],
-      "tids": [
-        0,
-        15
-      ],
-      "season": 2020,
-      "eid": 2
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/ATL/2020\">Hawks</a> traded <a href=\"/l/17/player/785\">DeAndre' Bembry</a> to the <a href=\"/l/17/roster/OKC/2020\">Thunder</a> for a 2020 1st round pick (DEN).",
-      "pids": [
-        785
-      ],
-      "tids": [
-        0,
-        20
-      ],
-      "season": 2020,
-      "eid": 3
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/450\">Goran Dragic</a> to the <a href=\"/l/17/roster/DAL/2020\">Mavericks</a> for <a href=\"/l/17/player/318\">Courtney Lee</a>, <a href=\"/l/17/player/678\">Jalen Brunson</a>, <a href=\"/l/17/player/843\">Justin Jackson</a>, and a 2020 2nd round pick (GSW).",
-      "pids": [
-        450,
-        318,
-        678,
-        843
-      ],
-      "tids": [
-        20,
-        6
-      ],
-      "season": 2020,
-      "eid": 4
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/319\">James Johnson</a> to the <a href=\"/l/17/roster/LAL/2020\">Lakers</a> for a 2023 2nd round pick (LAL).",
-      "pids": [
-        319
-      ],
-      "tids": [
-        20,
-        13
-      ],
-      "season": 2020,
-      "eid": 5
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/LAL/2020\">Lakers</a> released <a href=\"/l/17/player/444\">Aric Holman</a>.",
-      "pids": [
-        444
-      ],
-      "tids": [
-        13
-      ],
-      "season": 2020,
-      "eid": 6
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/LAL/2020\">Lakers</a> traded <a href=\"/l/17/player/176\">Talen Horton-Tucker</a>, <a href=\"/l/17/player/212\">Kentavious Caldwell-Pope</a>, and a 2020 1st round pick (LAL) to the <a href=\"/l/17/roster/CHA/2020\">Hornets</a> for <a href=\"/l/17/player/773\">Willy Hernangomez</a> and a 2020 2nd round pick (CLE).",
-      "pids": [
-        176,
-        212,
-        773
-      ],
-      "tids": [
-        13,
-        3
-      ],
-      "season": 2020,
-      "eid": 7
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/204\">Danilo Gallinari</a>, <a href=\"/l/17/player/318\">Courtney Lee</a>, and a 2023 1st round pick (OKC) to the <a href=\"/l/17/roster/SAS/2020\">Spurs</a> for <a href=\"/l/17/player/469\">LaMarcus Aldridge</a> and <a href=\"/l/17/player/492\">Patty Mills</a>.",
-      "pids": [
-        204,
-        318,
-        469,
-        492
-      ],
-      "tids": [
-        20,
-        26
-      ],
-      "season": 2020,
-      "eid": 8
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/469\">LaMarcus Aldridge</a> and a 2020 2nd round pick (GSW) to the <a href=\"/l/17/roster/MIA/2020\">North Carolina</a> for <a href=\"/l/17/player/54\">Justise Winslow</a>, <a href=\"/l/17/player/165\">Dion Waiters</a>, <a href=\"/l/17/player/599\">Bam Adebayo</a>, a 2020 1st round pick (MIA), and a 2022 2nd round pick (MIA).",
-      "pids": [
-        469,
-        54,
-        165,
-        599
-      ],
-      "tids": [
-        20,
-        15
-      ],
-      "season": 2020,
-      "eid": 9
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/514\">Patrick Patterson</a>.",
-      "pids": [
-        514
-      ],
-      "tids": [
-        20
-      ],
-      "season": 2020,
-      "eid": 10
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/492\">Patty Mills</a>.",
-      "pids": [
-        492
-      ],
-      "tids": [
-        20
-      ],
-      "season": 2020,
-      "eid": 11
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/784\">Abdel Nader</a>.",
-      "pids": [
-        784
-      ],
-      "tids": [
-        20
-      ],
-      "season": 2020,
-      "eid": 12
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/703\">Deonte Burton</a>.",
-      "pids": [
-        703
-      ],
-      "tids": [
-        20
-      ],
-      "season": 2020,
-      "eid": 13
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/720\">Donte Grantham</a>.",
-      "pids": [
-        720
-      ],
-      "tids": [
-        20
-      ],
-      "season": 2020,
-      "eid": 14
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/18/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/18/player/165\">Dion Waiters</a> to the <a href=\"/l/18/roster/ATL/2020\">Hawks</a> for a 2023 2nd round pick (ATL) and a 2023 2nd round pick (CHA).",
-      "pids": [
-        165
-      ],
-      "tids": [
-        20,
-        0
-      ],
-      "season": 2020,
-      "eid": 15
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/20/roster/LAL/2020\">Lakers</a> traded <a href=\"/l/20/player/203\">JaVale McGee</a>, <a href=\"/l/20/player/610\">Quinn Cook</a>, and a 2020 2nd round pick (CLE) to the <a href=\"/l/20/roster/ATL/2020\">Hawks</a> for <a href=\"/l/20/player/91\">Jabari Parker</a>.",
-      "pids": [
-        203,
-        610,
-        91
-      ],
-      "tids": [
-        13,
-        0
-      ],
-      "season": 2020,
-      "eid": 16
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/20/roster/NYK/2020\">Knicks</a> released <a href=\"/l/20/player/345\">Kadeem Allen</a>.",
-      "pids": [
-        345
-      ],
-      "tids": [
-        19
-      ],
-      "season": 2020,
-      "eid": 17
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/21/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/21/player/397\">Andre Roberson</a> to the <a href=\"/l/21/roster/NYK/2020\">Knicks</a> for <a href=\"/l/21/player/147\">Frank Ntilikina</a> and <a href=\"/l/21/player/183\">Wayne Ellington</a>.",
-      "pids": [
-        397,
-        147,
-        183
-      ],
-      "tids": [
-        20,
-        19
-      ],
-      "season": 2020,
-      "eid": 18
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/1/roster/MEM/2020\">Grizzlies</a> released <a href=\"/l/1/player/443\">Miles Plumlee</a>.",
-      "pids": [
-        443
-      ],
-      "tids": [
-        14
-      ],
-      "season": 2020,
-      "eid": 19
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/1/roster/MEM/2020\">Grizzlies</a> released <a href=\"/l/1/player/258\">Solomon Hill</a>.",
-      "pids": [
-        258
-      ],
-      "tids": [
-        14
-      ],
-      "season": 2020,
-      "eid": 20
     }
   ],
   "teams": [
@@ -5530,6 +5237,408 @@
       ]
     }
   ],
+  "events": [
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/10/roster/DET/2020\">Pistons</a> traded <a href=\"/l/10/player/214\">Andre Drummond</a>, <a href=\"/l/10/player/532\">Deividas Sirvydis</a>, and <a href=\"/l/10/player/759\">Luke Kennard</a> to the <a href=\"/l/10/roster/DEN/2020\">Nuggets</a> for <a href=\"/l/10/player/123\">Mason Plumlee</a> and <a href=\"/l/10/player/463\">Will Barton</a>.",
+      "pids": [
+        214,
+        532,
+        759,
+        123,
+        463
+      ],
+      "tids": [
+        8,
+        7
+      ],
+      "season": 2020,
+      "eid": 0
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/MIA/2020\">North Carolina</a> traded <a href=\"/l/17/player/319\">James Johnson</a> and <a href=\"/l/17/player/450\">Goran Dragic</a> to the <a href=\"/l/17/roster/OKC/2020\">Thunder</a> for <a href=\"/l/17/player/284\">Chris Paul</a> and a 2021 2nd round pick (OKC).",
+      "pids": [
+        319,
+        450,
+        284
+      ],
+      "tids": [
+        15,
+        20
+      ],
+      "season": 2020,
+      "eid": 1
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/ATL/2020\">Hawks</a> traded <a href=\"/l/17/player/619\">Cam Reddish</a> to the <a href=\"/l/17/roster/MIA/2020\">North Carolina</a> for <a href=\"/l/17/player/438\">Tyler Herro</a>.",
+      "pids": [
+        619,
+        438
+      ],
+      "tids": [
+        0,
+        15
+      ],
+      "season": 2020,
+      "eid": 2
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/ATL/2020\">Hawks</a> traded <a href=\"/l/17/player/785\">DeAndre' Bembry</a> to the <a href=\"/l/17/roster/OKC/2020\">Thunder</a> for a 2020 1st round pick (DEN).",
+      "pids": [
+        785
+      ],
+      "tids": [
+        0,
+        20
+      ],
+      "season": 2020,
+      "eid": 3
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/450\">Goran Dragic</a> to the <a href=\"/l/17/roster/DAL/2020\">Mavericks</a> for <a href=\"/l/17/player/318\">Courtney Lee</a>, <a href=\"/l/17/player/678\">Jalen Brunson</a>, <a href=\"/l/17/player/843\">Justin Jackson</a>, and a 2020 2nd round pick (GSW).",
+      "pids": [
+        450,
+        318,
+        678,
+        843
+      ],
+      "tids": [
+        20,
+        6
+      ],
+      "season": 2020,
+      "eid": 4
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/319\">James Johnson</a> to the <a href=\"/l/17/roster/LAL/2020\">Lakers</a> for a 2023 2nd round pick (LAL).",
+      "pids": [
+        319
+      ],
+      "tids": [
+        20,
+        13
+      ],
+      "season": 2020,
+      "eid": 5
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/LAL/2020\">Lakers</a> released <a href=\"/l/17/player/444\">Aric Holman</a>.",
+      "pids": [
+        444
+      ],
+      "tids": [
+        13
+      ],
+      "season": 2020,
+      "eid": 6
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/LAL/2020\">Lakers</a> traded <a href=\"/l/17/player/176\">Talen Horton-Tucker</a>, <a href=\"/l/17/player/212\">Kentavious Caldwell-Pope</a>, and a 2020 1st round pick (LAL) to the <a href=\"/l/17/roster/CHA/2020\">Hornets</a> for <a href=\"/l/17/player/773\">Willy Hernangomez</a> and a 2020 2nd round pick (CLE).",
+      "pids": [
+        176,
+        212,
+        773
+      ],
+      "tids": [
+        13,
+        3
+      ],
+      "season": 2020,
+      "eid": 7
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/204\">Danilo Gallinari</a>, <a href=\"/l/17/player/318\">Courtney Lee</a>, and a 2023 1st round pick (OKC) to the <a href=\"/l/17/roster/SAS/2020\">Spurs</a> for <a href=\"/l/17/player/469\">LaMarcus Aldridge</a> and <a href=\"/l/17/player/492\">Patty Mills</a>.",
+      "pids": [
+        204,
+        318,
+        469,
+        492
+      ],
+      "tids": [
+        20,
+        26
+      ],
+      "season": 2020,
+      "eid": 8
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/17/player/469\">LaMarcus Aldridge</a> and a 2020 2nd round pick (GSW) to the <a href=\"/l/17/roster/MIA/2020\">North Carolina</a> for <a href=\"/l/17/player/54\">Justise Winslow</a>, <a href=\"/l/17/player/165\">Dion Waiters</a>, <a href=\"/l/17/player/599\">Bam Adebayo</a>, a 2020 1st round pick (MIA), and a 2022 2nd round pick (MIA).",
+      "pids": [
+        469,
+        54,
+        165,
+        599
+      ],
+      "tids": [
+        20,
+        15
+      ],
+      "season": 2020,
+      "eid": 9
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/514\">Patrick Patterson</a>.",
+      "pids": [
+        514
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 10
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/492\">Patty Mills</a>.",
+      "pids": [
+        492
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 11
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/784\">Abdel Nader</a>.",
+      "pids": [
+        784
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 12
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/703\">Deonte Burton</a>.",
+      "pids": [
+        703
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 13
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/OKC/2020\">Thunder</a> released <a href=\"/l/17/player/720\">Donte Grantham</a>.",
+      "pids": [
+        720
+      ],
+      "tids": [
+        20
+      ],
+      "season": 2020,
+      "eid": 14
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/18/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/18/player/165\">Dion Waiters</a> to the <a href=\"/l/18/roster/ATL/2020\">Hawks</a> for a 2023 2nd round pick (ATL) and a 2023 2nd round pick (CHA).",
+      "pids": [
+        165
+      ],
+      "tids": [
+        20,
+        0
+      ],
+      "season": 2020,
+      "eid": 15
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/20/roster/LAL/2020\">Lakers</a> traded <a href=\"/l/20/player/203\">JaVale McGee</a>, <a href=\"/l/20/player/610\">Quinn Cook</a>, and a 2020 2nd round pick (CLE) to the <a href=\"/l/20/roster/ATL/2020\">Hawks</a> for <a href=\"/l/20/player/91\">Jabari Parker</a>.",
+      "pids": [
+        203,
+        610,
+        91
+      ],
+      "tids": [
+        13,
+        0
+      ],
+      "season": 2020,
+      "eid": 16
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/20/roster/NYK/2020\">Knicks</a> released <a href=\"/l/20/player/345\">Kadeem Allen</a>.",
+      "pids": [
+        345
+      ],
+      "tids": [
+        19
+      ],
+      "season": 2020,
+      "eid": 17
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/OKC/2020\">Thunder</a> traded <a href=\"/l/21/player/397\">Andre Roberson</a> to the <a href=\"/l/21/roster/NYK/2020\">Knicks</a> for <a href=\"/l/21/player/147\">Frank Ntilikina</a> and <a href=\"/l/21/player/183\">Wayne Ellington</a>.",
+      "pids": [
+        397,
+        147,
+        183
+      ],
+      "tids": [
+        20,
+        19
+      ],
+      "season": 2020,
+      "eid": 18
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/1/roster/MEM/2020\">Grizzlies</a> released <a href=\"/l/1/player/443\">Miles Plumlee</a>.",
+      "pids": [
+        443
+      ],
+      "tids": [
+        14
+      ],
+      "season": 2020,
+      "eid": 19
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/1/roster/MEM/2020\">Grizzlies</a> released <a href=\"/l/1/player/258\">Solomon Hill</a>.",
+      "pids": [
+        258
+      ],
+      "tids": [
+        14
+      ],
+      "season": 2020,
+      "eid": 20
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/2/roster/LAL/2020\">Lakers</a> traded <a href=\"/l/2/player/116\">Rajon Rondo</a> to the <a href=\"/l/2/roster/BOS/2020\">Celtics</a> for <a href=\"/l/2/player/121\">Daniel Theis</a>, a 2020 1st round pick (BOS), and a 2021 1st round pick (MEM).",
+      "pids": [
+        116,
+        121
+      ],
+      "tids": [
+        13,
+        1
+      ],
+      "season": 2020,
+      "eid": 21
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/2/roster/TOR/2020\">Raptors</a> traded <a href=\"/l/2/player/402\">Serge Ibaka</a>, <a href=\"/l/2/player/628\">Fred VanVleet</a>, a 2020 1st round pick (TOR), and a 2021 1st round pick (TOR) to the <a href=\"/l/2/roster/BKN/2020\">Nets</a> for <a href=\"/l/2/player/280\">DeAndre Jordan</a>, <a href=\"/l/2/player/769\">Joe Harris</a>, <a href=\"/l/2/player/791\">Spencer Dinwiddie</a>, a 2020 2nd round pick (DEN), a 2021 2nd round pick (ATL), and a 2021 2nd round pick (IND).",
+      "pids": [
+        402,
+        628,
+        280,
+        769,
+        791
+      ],
+      "tids": [
+        27,
+        2
+      ],
+      "season": 2020,
+      "eid": 22
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/2/roster/TOR/2020\">Raptors</a> traded nothing to the <a href=\"/l/2/roster/BKN/2020\">Nets</a> for a 2021 2nd round pick (TOR).",
+      "pids": [],
+      "tids": [
+        27,
+        2
+      ],
+      "season": 2020,
+      "eid": 23
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/2/roster/TOR/2020\">Raptors</a> traded nothing to the <a href=\"/l/2/roster/BKN/2020\">Nets</a> for <a href=\"/l/2/player/836\">Taurean Prince</a>.",
+      "pids": [
+        836
+      ],
+      "tids": [
+        27,
+        2
+      ],
+      "season": 2020,
+      "eid": 24
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/2/roster/TOR/2020\">Raptors</a> traded a 2021 2nd round pick (TOR) to the <a href=\"/l/2/roster/BKN/2020\">Nets</a> for nothing.",
+      "pids": [],
+      "tids": [
+        27,
+        2
+      ],
+      "season": 2020,
+      "eid": 25
+    },
+    {
+      "type": "freeAgent",
+      "text": "The <a href=\"/l/2/roster/RH/2020\">Heat</a> signed <a href=\"/l/2/player/361\">Corey Brewer</a> for $0.90M/year through 2020.",
+      "pids": [
+        361
+      ],
+      "tids": [
+        15
+      ],
+      "season": 2020,
+      "eid": 26
+    },
+    {
+      "type": "freeAgent",
+      "text": "The <a href=\"/l/2/roster/RH/2020\">Heat</a> signed <a href=\"/l/2/player/157\">Naz Mitrou-Long</a> for $0.90M/year through 2020.",
+      "pids": [
+        157
+      ],
+      "tids": [
+        15
+      ],
+      "season": 2020,
+      "eid": 27
+    },
+    {
+      "type": "freeAgent",
+      "text": "The <a href=\"/l/2/roster/RH/2020\">Heat</a> signed <a href=\"/l/2/player/242\">Terrence Jones</a> for $0.90M/year through 2020.",
+      "pids": [
+        242
+      ],
+      "tids": [
+        15
+      ],
+      "season": 2020,
+      "eid": 28
+    },
+    {
+      "type": "freeAgent",
+      "text": "The <a href=\"/l/2/roster/RH/2020\">Heat</a> signed <a href=\"/l/2/player/498\">Jaron Blossomgame</a> for $0.90M/year through 2020.",
+      "pids": [
+        498
+      ],
+      "tids": [
+        15
+      ],
+      "season": 2020,
+      "eid": 29
+    }
+  ],
   "gameAttributes": [
     {
       "key": "aiTrades",
@@ -5645,7 +5754,7 @@
     },
     {
       "key": "leagueName",
-      "value": "League 1"
+      "value": "Official league"
     },
     {
       "key": "luxuryPayroll",
@@ -5818,7 +5927,7 @@
       "dpid": 1
     },
     {
-      "tid": 1,
+      "tid": 13,
       "originalTid": 1,
       "round": 1,
       "pick": 0,
@@ -5922,7 +6031,7 @@
       "dpid": 14
     },
     {
-      "tid": 2,
+      "tid": 27,
       "originalTid": 7,
       "round": 2,
       "pick": 0,
@@ -6234,7 +6343,7 @@
       "dpid": 53
     },
     {
-      "tid": 27,
+      "tid": 2,
       "originalTid": 27,
       "round": 1,
       "pick": 0,
@@ -6290,7 +6399,7 @@
       "dpid": 60
     },
     {
-      "tid": 2,
+      "tid": 27,
       "originalTid": 0,
       "round": 2,
       "pick": 0,
@@ -6466,7 +6575,7 @@
       "dpid": 82
     },
     {
-      "tid": 2,
+      "tid": 27,
       "originalTid": 11,
       "round": 2,
       "pick": 0,
@@ -6506,7 +6615,7 @@
       "dpid": 87
     },
     {
-      "tid": 1,
+      "tid": 13,
       "originalTid": 14,
       "round": 1,
       "pick": 0,
@@ -6714,7 +6823,7 @@
       "dpid": 113
     },
     {
-      "tid": 27,
+      "tid": 2,
       "originalTid": 27,
       "round": 1,
       "pick": 0,
@@ -31384,7 +31493,7 @@
       "pid": 115
     },
     {
-      "tid": 13,
+      "tid": 1,
       "name": "Rajon Rondo",
       "ratings": [
         {
@@ -31594,10 +31703,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        13
+        13,
+        1
       ],
       "firstName": "Rajon",
       "lastName": "Rondo",
@@ -32378,7 +32532,7 @@
       "pid": 120
     },
     {
-      "tid": 1,
+      "tid": 13,
       "name": "Daniel Theis",
       "ratings": [
         {
@@ -32573,10 +32727,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 13,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        1
+        1,
+        13
       ],
       "firstName": "Daniel",
       "lastName": "Theis",
@@ -39421,7 +39620,7 @@
       "pid": 156
     },
     {
-      "tid": -1,
+      "tid": 15,
       "name": "Naz Mitrou-Long",
       "ratings": [
         {
@@ -39563,15 +39762,62 @@
         0,
         0
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
       "rosterOrder": 666,
       "watch": false,
       "yearsFreeAgent": 0,
-      "stats": [],
-      "statsTids": [],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        }
+      ],
+      "statsTids": [
+        15
+      ],
       "firstName": "Naz",
       "lastName": "Mitrou-Long",
       "value": 51.4,
@@ -39579,7 +39825,12 @@
       "valueFuzz": 51.4,
       "valueNoPotFuzz": 51,
       "valueWithContract": 51.4,
-      "salaries": [],
+      "salaries": [
+        {
+          "season": 2020,
+          "amount": 900
+        }
+      ],
       "relatives": [],
       "pid": 157
     },
@@ -55665,7 +55916,7 @@
       "pid": 241
     },
     {
-      "tid": -1,
+      "tid": 15,
       "name": "Terrence Jones",
       "pos": "PF",
       "hgt": 81,
@@ -55808,15 +56059,62 @@
         0,
         0
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
       "rosterOrder": 666,
       "watch": false,
       "yearsFreeAgent": 0,
-      "stats": [],
-      "statsTids": [],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        }
+      ],
+      "statsTids": [
+        15
+      ],
       "firstName": "Terrence",
       "lastName": "Jones",
       "value": 51,
@@ -55824,7 +56122,12 @@
       "valueFuzz": 51,
       "valueNoPotFuzz": 51,
       "valueWithContract": 51,
-      "salaries": [],
+      "salaries": [
+        {
+          "season": 2020,
+          "amount": 900
+        }
+      ],
       "relatives": [],
       "pid": 242
     },
@@ -63055,7 +63358,7 @@
       "pid": 279
     },
     {
-      "tid": 2,
+      "tid": 27,
       "name": "DeAndre Jordan",
       "ratings": [
         {
@@ -63260,10 +63563,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        2
+        2,
+        27
       ],
       "firstName": "DeAndre",
       "lastName": "Jordan",
@@ -78997,7 +79345,7 @@
       "pid": 360
     },
     {
-      "tid": -1,
+      "tid": 15,
       "name": "Corey Brewer",
       "ratings": [
         {
@@ -79137,15 +79485,62 @@
         0,
         0
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
       "rosterOrder": 666,
       "watch": false,
       "yearsFreeAgent": 0,
-      "stats": [],
-      "statsTids": [],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        }
+      ],
+      "statsTids": [
+        15
+      ],
       "firstName": "Corey",
       "lastName": "Brewer",
       "value": 41.6,
@@ -79153,7 +79548,12 @@
       "valueFuzz": 41.6,
       "valueNoPotFuzz": 52,
       "valueWithContract": 41.6,
-      "salaries": [],
+      "salaries": [
+        {
+          "season": 2020,
+          "amount": 900
+        }
+      ],
       "relatives": [],
       "pid": 361
     },
@@ -86939,7 +87339,7 @@
       "pid": 401
     },
     {
-      "tid": 27,
+      "tid": 2,
       "name": "Serge Ibaka",
       "ratings": [
         {
@@ -87144,10 +87544,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 2,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        2
       ],
       "firstName": "Serge",
       "lastName": "Ibaka",
@@ -106573,7 +107018,7 @@
       "pid": 497
     },
     {
-      "tid": -1,
+      "tid": 15,
       "name": "Jaron Blossomgame",
       "ratings": [
         {
@@ -106713,15 +107158,62 @@
         0,
         0
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hof": false,
       "ptModifier": 1,
       "retiredYear": null,
       "rosterOrder": 666,
       "watch": false,
       "yearsFreeAgent": 0,
-      "stats": [],
-      "statsTids": [],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        }
+      ],
+      "statsTids": [
+        15
+      ],
       "firstName": "Jaron",
       "lastName": "Blossomgame",
       "value": 49.2,
@@ -106729,7 +107221,12 @@
       "valueFuzz": 49.2,
       "valueNoPotFuzz": 49,
       "valueWithContract": 49.2,
-      "salaries": [],
+      "salaries": [
+        {
+          "season": 2020,
+          "amount": 900
+        }
+      ],
       "relatives": [],
       "pid": 498
     },
@@ -131819,7 +132316,7 @@
       "pid": 627
     },
     {
-      "tid": 27,
+      "tid": 2,
       "name": "Fred VanVleet",
       "ratings": [
         {
@@ -132012,10 +132509,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 2,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        2
       ],
       "firstName": "Fred",
       "lastName": "VanVleet",
@@ -159374,7 +159916,7 @@
       "pid": 768
     },
     {
-      "tid": 2,
+      "tid": 27,
       "name": "Joe Harris",
       "ratings": [
         {
@@ -159567,10 +160109,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        2
+        2,
+        27
       ],
       "firstName": "Joe",
       "lastName": "Harris",
@@ -163902,7 +164489,7 @@
       "pid": 790
     },
     {
-      "tid": 2,
+      "tid": 27,
       "name": "Spencer Dinwiddie",
       "ratings": [
         {
@@ -164095,10 +164682,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        2
+        2,
+        27
       ],
       "firstName": "Spencer",
       "lastName": "Dinwiddie",
@@ -172453,7 +173085,7 @@
       "pid": 835
     },
     {
-      "tid": 2,
+      "tid": 27,
       "name": "Taurean Prince",
       "pos": "SF",
       "hgt": 80,
@@ -172647,10 +173279,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        2
+        2,
+        27
       ],
       "firstName": "Taurean",
       "lastName": "Prince",
